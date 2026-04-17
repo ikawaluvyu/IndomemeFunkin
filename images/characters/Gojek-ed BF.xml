@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Gojek-ed BF.png">
+	<!-- Created with Adobe Animate version 24.0.9.74 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GBFDown0000" x="0" y="981" width="340" height="454"/>
+	<SubTexture name="GBFDown0001" x="0" y="981" width="340" height="454"/>
+	<SubTexture name="GBFDown0002" x="896" y="1006" width="333" height="452" frameX="-2" frameY="-2" frameWidth="340" frameHeight="454"/>
+	<SubTexture name="GBFDown0003" x="896" y="1006" width="333" height="452" frameX="-2" frameY="-2" frameWidth="340" frameHeight="454"/>
+	<SubTexture name="GBFDown0004" x="896" y="1006" width="333" height="452" frameX="-2" frameY="-2" frameWidth="340" frameHeight="454"/>
+	<SubTexture name="GBFDown0005" x="896" y="1006" width="333" height="452" frameX="-2" frameY="-2" frameWidth="340" frameHeight="454"/>
+	<SubTexture name="GBFDown0006" x="896" y="1006" width="333" height="452" frameX="-2" frameY="-2" frameWidth="340" frameHeight="454"/>
+	<SubTexture name="GBFDown0007" x="896" y="1006" width="333" height="452" frameX="-2" frameY="-2" frameWidth="340" frameHeight="454"/>
+	<SubTexture name="GBFDown0008" x="896" y="1006" width="333" height="452" frameX="-2" frameY="-2" frameWidth="340" frameHeight="454"/>
+	<SubTexture name="GBFDown0009" x="896" y="1006" width="333" height="452" frameX="-2" frameY="-2" frameWidth="340" frameHeight="454"/>
+	<SubTexture name="GBFDown0010" x="896" y="1006" width="333" height="452" frameX="-2" frameY="-2" frameWidth="340" frameHeight="454"/>
+	<SubTexture name="GBFDown0011" x="896" y="1006" width="333" height="452" frameX="-2" frameY="-2" frameWidth="340" frameHeight="454"/>
+	<SubTexture name="GBFDown0012" x="0" y="981" width="340" height="454"/>
+	<SubTexture name="GBFDown0013" x="0" y="981" width="340" height="454"/>
+	<SubTexture name="GBFIdle0000" x="1281" y="487" width="356" height="490" frameX="0" frameY="-3" frameWidth="356" frameHeight="493"/>
+	<SubTexture name="GBFIdle0001" x="1281" y="487" width="356" height="490" frameX="0" frameY="-3" frameWidth="356" frameHeight="493"/>
+	<SubTexture name="GBFIdle0002" x="1622" y="980" width="341" height="488" frameX="-9" frameY="-5" frameWidth="356" frameHeight="493"/>
+	<SubTexture name="GBFIdle0003" x="1622" y="980" width="341" height="488" frameX="-9" frameY="-5" frameWidth="356" frameHeight="493"/>
+	<SubTexture name="GBFIdle0004" x="1637" y="487" width="342" height="493" frameX="-9" frameY="0" frameWidth="356" frameHeight="493"/>
+	<SubTexture name="GBFIdle0005" x="1637" y="487" width="342" height="493" frameX="-9" frameY="0" frameWidth="356" frameHeight="493"/>
+	<SubTexture name="GBFIdle0006" x="0" y="491" width="341" height="490" frameX="-9" frameY="-3" frameWidth="356" frameHeight="493"/>
+	<SubTexture name="GBFIdle0007" x="0" y="491" width="341" height="490" frameX="-9" frameY="-3" frameWidth="356" frameHeight="493"/>
+	<SubTexture name="GBFIdle0008" x="1281" y="977" width="341" height="490" frameX="-9" frameY="-3" frameWidth="356" frameHeight="493"/>
+	<SubTexture name="GBFIdle0009" x="1281" y="977" width="341" height="490" frameX="-9" frameY="-3" frameWidth="356" frameHeight="493"/>
+	<SubTexture name="GBFIdle0010" x="1281" y="977" width="341" height="490" frameX="-9" frameY="-3" frameWidth="356" frameHeight="493"/>
+	<SubTexture name="GBFIdle0011" x="1281" y="977" width="341" height="490" frameX="-9" frameY="-3" frameWidth="356" frameHeight="493"/>
+	<SubTexture name="GBFLeft0000" x="0" y="0" width="507" height="491"/>
+	<SubTexture name="GBFLeft0001" x="0" y="0" width="507" height="491"/>
+	<SubTexture name="GBFLeft0002" x="507" y="0" width="492" height="483" frameX="-9" frameY="-8" frameWidth="507" frameHeight="491"/>
+	<SubTexture name="GBFLeft0003" x="507" y="0" width="492" height="483" frameX="-9" frameY="-8" frameWidth="507" frameHeight="491"/>
+	<SubTexture name="GBFLeft0004" x="507" y="0" width="492" height="483" frameX="-9" frameY="-8" frameWidth="507" frameHeight="491"/>
+	<SubTexture name="GBFLeft0005" x="507" y="0" width="492" height="483" frameX="-9" frameY="-8" frameWidth="507" frameHeight="491"/>
+	<SubTexture name="GBFLeft0006" x="507" y="0" width="492" height="483" frameX="-9" frameY="-8" frameWidth="507" frameHeight="491"/>
+	<SubTexture name="GBFLeft0007" x="507" y="0" width="492" height="483" frameX="-9" frameY="-8" frameWidth="507" frameHeight="491"/>
+	<SubTexture name="GBFLeft0008" x="507" y="0" width="492" height="483" frameX="-9" frameY="-8" frameWidth="507" frameHeight="491"/>
+	<SubTexture name="GBFLeft0009" x="507" y="0" width="492" height="483" frameX="-9" frameY="-8" frameWidth="507" frameHeight="491"/>
+	<SubTexture name="GBFLeft0010" x="507" y="0" width="492" height="483" frameX="-9" frameY="-8" frameWidth="507" frameHeight="491"/>
+	<SubTexture name="GBFLeft0011" x="507" y="0" width="492" height="483" frameX="-9" frameY="-8" frameWidth="507" frameHeight="491"/>
+	<SubTexture name="GBFLeft0012" x="0" y="0" width="507" height="491"/>
+	<SubTexture name="GBFLeft0013" x="0" y="0" width="507" height="491"/>
+	<SubTexture name="GBFRight0000" x="999" y="0" width="465" height="487"/>
+	<SubTexture name="GBFRight0001" x="999" y="0" width="465" height="487"/>
+	<SubTexture name="GBFRight0002" x="1464" y="0" width="452" height="487" frameX="0" frameY="0" frameWidth="465" frameHeight="487"/>
+	<SubTexture name="GBFRight0003" x="1464" y="0" width="452" height="487" frameX="0" frameY="0" frameWidth="465" frameHeight="487"/>
+	<SubTexture name="GBFRight0004" x="1464" y="0" width="452" height="487" frameX="0" frameY="0" frameWidth="465" frameHeight="487"/>
+	<SubTexture name="GBFRight0005" x="1464" y="0" width="452" height="487" frameX="0" frameY="0" frameWidth="465" frameHeight="487"/>
+	<SubTexture name="GBFRight0006" x="1464" y="0" width="452" height="487" frameX="0" frameY="0" frameWidth="465" frameHeight="487"/>
+	<SubTexture name="GBFRight0007" x="1464" y="0" width="452" height="487" frameX="0" frameY="0" frameWidth="465" frameHeight="487"/>
+	<SubTexture name="GBFRight0008" x="1464" y="0" width="452" height="487" frameX="0" frameY="0" frameWidth="465" frameHeight="487"/>
+	<SubTexture name="GBFRight0009" x="1464" y="0" width="452" height="487" frameX="0" frameY="0" frameWidth="465" frameHeight="487"/>
+	<SubTexture name="GBFRight0010" x="1464" y="0" width="452" height="487" frameX="0" frameY="0" frameWidth="465" frameHeight="487"/>
+	<SubTexture name="GBFRight0011" x="1464" y="0" width="452" height="487" frameX="0" frameY="0" frameWidth="465" frameHeight="487"/>
+	<SubTexture name="GBFRight0012" x="999" y="0" width="465" height="487"/>
+	<SubTexture name="GBFRight0013" x="999" y="0" width="465" height="487"/>
+	<SubTexture name="GBFUp0000" x="507" y="483" width="389" height="534"/>
+	<SubTexture name="GBFUp0001" x="507" y="483" width="389" height="534"/>
+	<SubTexture name="GBFUp0002" x="896" y="487" width="385" height="519" frameX="-3" frameY="-15" frameWidth="389" frameHeight="534"/>
+	<SubTexture name="GBFUp0003" x="896" y="487" width="385" height="519" frameX="-3" frameY="-15" frameWidth="389" frameHeight="534"/>
+	<SubTexture name="GBFUp0004" x="896" y="487" width="385" height="519" frameX="-3" frameY="-15" frameWidth="389" frameHeight="534"/>
+	<SubTexture name="GBFUp0005" x="896" y="487" width="385" height="519" frameX="-3" frameY="-15" frameWidth="389" frameHeight="534"/>
+	<SubTexture name="GBFUp0006" x="896" y="487" width="385" height="519" frameX="-3" frameY="-15" frameWidth="389" frameHeight="534"/>
+	<SubTexture name="GBFUp0007" x="896" y="487" width="385" height="519" frameX="-3" frameY="-15" frameWidth="389" frameHeight="534"/>
+	<SubTexture name="GBFUp0008" x="896" y="487" width="385" height="519" frameX="-3" frameY="-15" frameWidth="389" frameHeight="534"/>
+	<SubTexture name="GBFUp0009" x="896" y="487" width="385" height="519" frameX="-3" frameY="-15" frameWidth="389" frameHeight="534"/>
+	<SubTexture name="GBFUp0010" x="896" y="487" width="385" height="519" frameX="-3" frameY="-15" frameWidth="389" frameHeight="534"/>
+	<SubTexture name="GBFUp0011" x="896" y="487" width="385" height="519" frameX="-3" frameY="-15" frameWidth="389" frameHeight="534"/>
+	<SubTexture name="GBFUp0012" x="507" y="483" width="389" height="534"/>
+	<SubTexture name="GBFUp0013" x="507" y="483" width="389" height="534"/>
+</TextureAtlas>

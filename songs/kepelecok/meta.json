@@ -1,0 +1,15 @@
+{
+	"customValues": {},
+	"color": "#5D0000",
+	"opponentModeAllowed": false,
+	"difficulties": [
+		"HARD"
+	],
+	"icon": "Acumalaka",
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"displayName": "Kepelecok",
+	"needsVoices": true,
+	"beatsPerMeasure": 4,
+	"bpm": 190
+}

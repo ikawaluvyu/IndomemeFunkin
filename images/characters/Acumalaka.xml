@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Acumalaka.png"><SubTexture name="Acumalaka Uhh0000" x="0" y="0" width="1304" height="704" frameX="0" frameY="0" frameWidth="1304" frameHeight="704" />
+<SubTexture name="Acumalaka Uhh0001" x="0" y="0" width="1304" height="704" frameX="0" frameY="0" frameWidth="1304" frameHeight="704" />
+<SubTexture name="Acumalaka Uhh0002" x="1304" y="0" width="1304" height="704" frameX="0" frameY="0" frameWidth="1304" frameHeight="704" />
+<SubTexture name="Acumalaka Uhh0003" x="1304" y="0" width="1304" height="704" frameX="0" frameY="0" frameWidth="1304" frameHeight="704" />
+<SubTexture name="Acumalaka Uhh0004" x="1304" y="0" width="1304" height="704" frameX="0" frameY="0" frameWidth="1304" frameHeight="704" />
+<SubTexture name="Acumalaka Uhh0005" x="1304" y="0" width="1304" height="704" frameX="0" frameY="0" frameWidth="1304" frameHeight="704" />
+<SubTexture name="Acumalaka Uhh0006" x="1304" y="0" width="1304" height="704" frameX="0" frameY="0" frameWidth="1304" frameHeight="704" />
+<SubTexture name="Acumalaka Uhh0007" x="1304" y="0" width="1304" height="704" frameX="0" frameY="0" frameWidth="1304" frameHeight="704" />
+<SubTexture name="Acumalaka Uhh0008" x="1304" y="0" width="1304" height="704" frameX="0" frameY="0" frameWidth="1304" frameHeight="704" />
+<SubTexture name="Acumalaka Uhh0009" x="1304" y="0" width="1304" height="704" frameX="0" frameY="0" frameWidth="1304" frameHeight="704" />
+<SubTexture name="Acumalaka Uhh0010" x="1304" y="0" width="1304" height="704" frameX="0" frameY="0" frameWidth="1304" frameHeight="704" />
+<SubTexture name="Acumalaka Uhh0011" x="1304" y="0" width="1304" height="704" frameX="0" frameY="0" frameWidth="1304" frameHeight="704" />
+<SubTexture name="Acumalaka Uhh0012" x="1304" y="0" width="1304" height="704" frameX="0" frameY="0" frameWidth="1304" frameHeight="704" />
+<SubTexture name="Acumalaka Dance N Dance0000" x="2608" y="0" width="1304" height="704" frameX="0" frameY="0" frameWidth="1304" frameHeight="704" />
+<SubTexture name="Acumalaka Dance N Dance0001" x="2608" y="0" width="1304" height="704" frameX="0" frameY="0" frameWidth="1304" frameHeight="704" />
+<SubTexture name="Acumalaka Dance N Dance0002" x="3912" y="0" width="1304" height="704" frameX="0" frameY="0" frameWidth="1304" frameHeight="704" />
+<SubTexture name="Acumalaka Dance N Dance0003" x="3912" y="0" width="1304" height="704" frameX="0" frameY="0" frameWidth="1304" frameHeight="704" />
+<SubTexture name="Acumalaka Dance N Dance0004" x="0" y="704" width="1304" height="704" frameX="0" frameY="0" frameWidth="1304" frameHeight="704" />
+<SubTexture name="Acumalaka Dance N Dance0005" x="0" y="704" width="1304" height="704" frameX="0" frameY="0" frameWidth="1304" frameHeight="704" />
+<SubTexture name="Acumalaka Dance N Dance0006" x="1304" y="704" width="1304" height="704" frameX="0" frameY="0" frameWidth="1304" frameHeight="704" />
+<SubTexture name="Acumalaka Dance N Dance0007" x="1304" y="704" width="1304" height="704" frameX="0" frameY="0" frameWidth="1304" frameHeight="704" />
+<SubTexture name="Acumalaka Dance N Dance0008" x="1304" y="704" width="1304" height="704" frameX="0" frameY="0" frameWidth="1304" frameHeight="704" />
+<SubTexture name="Acumalaka Dance N Dance0009" x="1304" y="704" width="1304" height="704" frameX="0" frameY="0" frameWidth="1304" frameHeight="704" />
+<SubTexture name="Acumalaka Dance N Dance0010" x="1304" y="704" width="1304" height="704" frameX="0" frameY="0" frameWidth="1304" frameHeight="704" />
+<SubTexture name="Acumalaka Dance N Dance0011" x="2608" y="704" width="1304" height="704" frameX="0" frameY="0" frameWidth="1304" frameHeight="704" />
+<SubTexture name="Acumalaka Dance N Dance0012" x="2608" y="704" width="1304" height="704" frameX="0" frameY="0" frameWidth="1304" frameHeight="704" />
+<SubTexture name="Acumalaka Dance N Dance0013" x="3912" y="704" width="1304" height="704" frameX="0" frameY="0" frameWidth="1304" frameHeight="704" />
+<SubTexture name="Acumalaka Dance N Dance0014" x="3912" y="704" width="1304" height="704" frameX="0" frameY="0" frameWidth="1304" frameHeight="704" />
+<SubTexture name="Acumalaka Dance N Dance0015" x="0" y="1408" width="1304" height="704" frameX="0" frameY="0" frameWidth="1304" frameHeight="704" />
+<SubTexture name="Acumalaka Dance N Dance0016" x="0" y="1408" width="1304" height="704" frameX="0" frameY="0" frameWidth="1304" frameHeight="704" />
+<SubTexture name="Acumalaka Dance N Dance0017" x="1304" y="1408" width="1304" height="704" frameX="0" frameY="0" frameWidth="1304" frameHeight="704" />
+<SubTexture name="Acumalaka Dance N Dance0018" x="1304" y="1408" width="1304" height="704" frameX="0" frameY="0" frameWidth="1304" frameHeight="704" />
+<SubTexture name="Acumalaka Dance N Dance0019" x="1304" y="1408" width="1304" height="704" frameX="0" frameY="0" frameWidth="1304" frameHeight="704" />
+<SubTexture name="Acumalaka Dance N Dance0020" x="1304" y="1408" width="1304" height="704" frameX="0" frameY="0" frameWidth="1304" frameHeight="704" />
+<SubTexture name="Acumalaka Dance N Dance0021" x="1304" y="1408" width="1304" height="704" frameX="0" frameY="0" frameWidth="1304" frameHeight="704" />
+<SubTexture name="Acumalaka Dance N Dance0022" x="1304" y="1408" width="1304" height="704" frameX="0" frameY="0" frameWidth="1304" frameHeight="704" />
+<SubTexture name="Acumalaka Dance N Dance0023" x="1304" y="1408" width="1304" height="704" frameX="0" frameY="0" frameWidth="1304" frameHeight="704" />
+<SubTexture name="Acumalaka Dance N Dance0024" x="1304" y="1408" width="1304" height="704" frameX="0" frameY="0" frameWidth="1304" frameHeight="704" />
+<SubTexture name="Acumalaka Dance N Dance0025" x="1304" y="1408" width="1304" height="704" frameX="0" frameY="0" frameWidth="1304" frameHeight="704" />
+<SubTexture name="Acumalaka HUH?0000" x="2608" y="1408" width="1304" height="704" frameX="0" frameY="0" frameWidth="1304" frameHeight="704" />
+<SubTexture name="Acumalaka HUH?0001" x="2608" y="1408" width="1304" height="704" frameX="0" frameY="0" frameWidth="1304" frameHeight="704" />
+<SubTexture name="Acumalaka HUH?0002" x="3912" y="1408" width="1304" height="704" frameX="0" frameY="0" frameWidth="1304" frameHeight="704" />
+<SubTexture name="Acumalaka HUH?0003" x="3912" y="1408" width="1304" height="704" frameX="0" frameY="0" frameWidth="1304" frameHeight="704" />
+<SubTexture name="Acumalaka HUH?0004" x="3912" y="1408" width="1304" height="704" frameX="0" frameY="0" frameWidth="1304" frameHeight="704" />
+<SubTexture name="Acumalaka HUH?0005" x="3912" y="1408" width="1304" height="704" frameX="0" frameY="0" frameWidth="1304" frameHeight="704" />
+<SubTexture name="Acumalaka HUH?0006" x="3912" y="1408" width="1304" height="704" frameX="0" frameY="0" frameWidth="1304" frameHeight="704" />
+<SubTexture name="Acumalaka HUH?0007" x="3912" y="1408" width="1304" height="704" frameX="0" frameY="0" frameWidth="1304" frameHeight="704" />
+<SubTexture name="Acumalaka HUH?0008" x="3912" y="1408" width="1304" height="704" frameX="0" frameY="0" frameWidth="1304" frameHeight="704" />
+<SubTexture name="Acumalaka HUH?0009" x="3912" y="1408" width="1304" height="704" frameX="0" frameY="0" frameWidth="1304" frameHeight="704" />
+<SubTexture name="Acumalaka HUH?0010" x="3912" y="1408" width="1304" height="704" frameX="0" frameY="0" frameWidth="1304" frameHeight="704" />
+<SubTexture name="Acumalaka HUH?0011" x="3912" y="1408" width="1304" height="704" frameX="0" frameY="0" frameWidth="1304" frameHeight="704" />
+<SubTexture name="Acumalaka HUH?0012" x="3912" y="1408" width="1304" height="704" frameX="0" frameY="0" frameWidth="1304" frameHeight="704" />
+<SubTexture name="Acumalaka HAHAHA0000" x="0" y="2112" width="1304" height="704" frameX="0" frameY="0" frameWidth="1304" frameHeight="704" />
+<SubTexture name="Acumalaka HAHAHA0001" x="0" y="2112" width="1304" height="704" frameX="0" frameY="0" frameWidth="1304" frameHeight="704" />
+<SubTexture name="Acumalaka HAHAHA0002" x="1304" y="2112" width="1304" height="704" frameX="0" frameY="0" frameWidth="1304" frameHeight="704" />
+<SubTexture name="Acumalaka HAHAHA0003" x="1304" y="2112" width="1304" height="704" frameX="0" frameY="0" frameWidth="1304" frameHeight="704" />
+<SubTexture name="Acumalaka HAHAHA0004" x="1304" y="2112" width="1304" height="704" frameX="0" frameY="0" frameWidth="1304" frameHeight="704" />
+<SubTexture name="Acumalaka HAHAHA0005" x="1304" y="2112" width="1304" height="704" frameX="0" frameY="0" frameWidth="1304" frameHeight="704" />
+<SubTexture name="Acumalaka HAHAHA0006" x="1304" y="2112" width="1304" height="704" frameX="0" frameY="0" frameWidth="1304" frameHeight="704" />
+<SubTexture name="Acumalaka HAHAHA0007" x="1304" y="2112" width="1304" height="704" frameX="0" frameY="0" frameWidth="1304" frameHeight="704" />
+<SubTexture name="Acumalaka HAHAHA0008" x="1304" y="2112" width="1304" height="704" frameX="0" frameY="0" frameWidth="1304" frameHeight="704" />
+<SubTexture name="Acumalaka HAHAHA0009" x="1304" y="2112" width="1304" height="704" frameX="0" frameY="0" frameWidth="1304" frameHeight="704" />
+<SubTexture name="Acumalaka HAHAHA0010" x="1304" y="2112" width="1304" height="704" frameX="0" frameY="0" frameWidth="1304" frameHeight="704" />
+<SubTexture name="Acumalaka HAHAHA0011" x="1304" y="2112" width="1304" height="704" frameX="0" frameY="0" frameWidth="1304" frameHeight="704" />
+<SubTexture name="Acumalaka HAHAHA0012" x="1304" y="2112" width="1304" height="704" frameX="0" frameY="0" frameWidth="1304" frameHeight="704" />
+<SubTexture name="Acumalaka MWAHAHAH0000" x="2608" y="2112" width="1304" height="1004" frameX="0" frameY="0" frameWidth="1304" frameHeight="1004" />
+<SubTexture name="Acumalaka MWAHAHAH0001" x="2608" y="2112" width="1304" height="1004" frameX="0" frameY="0" frameWidth="1304" frameHeight="1004" />
+<SubTexture name="Acumalaka MWAHAHAH0002" x="3912" y="2112" width="1304" height="1004" frameX="0" frameY="0" frameWidth="1304" frameHeight="1004" />
+<SubTexture name="Acumalaka MWAHAHAH0003" x="3912" y="2112" width="1304" height="1004" frameX="0" frameY="0" frameWidth="1304" frameHeight="1004" />
+<SubTexture name="Acumalaka MWAHAHAH0004" x="3912" y="2112" width="1304" height="1004" frameX="0" frameY="0" frameWidth="1304" frameHeight="1004" />
+<SubTexture name="Acumalaka MWAHAHAH0005" x="3912" y="2112" width="1304" height="1004" frameX="0" frameY="0" frameWidth="1304" frameHeight="1004" />
+<SubTexture name="Acumalaka MWAHAHAH0006" x="3912" y="2112" width="1304" height="1004" frameX="0" frameY="0" frameWidth="1304" frameHeight="1004" />
+<SubTexture name="Acumalaka MWAHAHAH0007" x="3912" y="2112" width="1304" height="1004" frameX="0" frameY="0" frameWidth="1304" frameHeight="1004" />
+<SubTexture name="Acumalaka MWAHAHAH0008" x="3912" y="2112" width="1304" height="1004" frameX="0" frameY="0" frameWidth="1304" frameHeight="1004" />
+<SubTexture name="Acumalaka MWAHAHAH0009" x="3912" y="2112" width="1304" height="1004" frameX="0" frameY="0" frameWidth="1304" frameHeight="1004" />
+<SubTexture name="Acumalaka MWAHAHAH0010" x="3912" y="2112" width="1304" height="1004" frameX="0" frameY="0" frameWidth="1304" frameHeight="1004" />
+<SubTexture name="Acumalaka MWAHAHAH0011" x="3912" y="2112" width="1304" height="1004" frameX="0" frameY="0" frameWidth="1304" frameHeight="1004" />
+<SubTexture name="Acumalaka MWAHAHAH0012" x="3912" y="2112" width="1304" height="1004" frameX="0" frameY="0" frameWidth="1304" frameHeight="1004" />
+</TextureAtlas>

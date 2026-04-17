@@ -1,0 +1,12 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.6" name="CountryBG" folder="stages/CountryBG/">
+	<sprite name="sky"           x="-2058" y="-900"   sprite="sky"       scroll="1.3" />
+	<sprite name="ole"           x="-2058" y="-900"   sprite="ole"       scroll="1.2" />
+	<sprite name="gunung"           x="-2058" y="-900"   sprite="gunung"       scroll="1" />
+	<sprite name="land2"       x="-2058" y="-900"    sprite="land2"      scroll="1.1" />
+	<sprite name="land"       x="-2058" y="-900"    sprite="land"      scroll="1" />
+	<girlfriend />
+	<dad x="-444" y="128"/>
+	<boyfriend />
+	<sprite name="grass"    x="-2058" y="-900"   sprite="grass"   scroll="1" />
+</stage>

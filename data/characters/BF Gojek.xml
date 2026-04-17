@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character y="350" sprite="Gojek-ed BF" flipX="true" isPlayer="true" icon="bf" color="#30B0D1" gameOverChar="balls-dead">
+	<anim name="idle" anim="GBFIdle"/>
+	<anim name="singLEFT" anim="GBFLeft" x="34" y="-4"/>
+	<anim name="singRIGHT" anim="GBFRight" x="-30" y="-7"/>
+	<anim name="singUP" anim="GBFUp" x="-32" y="42"/>
+	<anim name="singDOWN" anim="GBFDown" x="-14" y="-39"/>
+</character>

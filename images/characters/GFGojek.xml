@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="GFGojek.png">
+	<!-- Created with Adobe Animate version 24.0.0.305 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GFGojekDanceLeft0000" x="0" y="0" width="352" height="621"/>
+	<SubTexture name="GFGojekDanceLeft0001" x="352" y="0" width="352" height="621"/>
+	<SubTexture name="GFGojekDanceLeft0002" x="704" y="0" width="352" height="621"/>
+	<SubTexture name="GFGojekDanceLeft0003" x="1056" y="0" width="352" height="621"/>
+	<SubTexture name="GFGojekDanceLeft0004" x="1408" y="0" width="352" height="621"/>
+	<SubTexture name="GFGojekDanceLeft0005" x="1408" y="0" width="352" height="621"/>
+	<SubTexture name="GFGojekDanceLeft0006" x="0" y="621" width="352" height="621"/>
+	<SubTexture name="GFGojekDanceLeft0007" x="0" y="621" width="352" height="621"/>
+	<SubTexture name="GFGojekDanceLeft0008" x="352" y="621" width="352" height="621"/>
+	<SubTexture name="GFGojekDanceLeft0009" x="352" y="621" width="352" height="621"/>
+	<SubTexture name="GFGojekDanceLeft0010" x="704" y="621" width="352" height="621"/>
+	<SubTexture name="GFGojekDanceLeft0011" x="704" y="621" width="352" height="621"/>
+	<SubTexture name="GFGojekDanceRight0000" x="1056" y="621" width="340" height="614"/>
+	<SubTexture name="GFGojekDanceRight0001" x="1396" y="621" width="340" height="614"/>
+	<SubTexture name="GFGojekDanceRight0002" x="0" y="1242" width="340" height="614"/>
+	<SubTexture name="GFGojekDanceRight0003" x="340" y="1242" width="340" height="614"/>
+	<SubTexture name="GFGojekDanceRight0004" x="680" y="1242" width="340" height="614"/>
+	<SubTexture name="GFGojekDanceRight0005" x="680" y="1242" width="340" height="614"/>
+	<SubTexture name="GFGojekDanceRight0006" x="1020" y="1242" width="340" height="614"/>
+	<SubTexture name="GFGojekDanceRight0007" x="1020" y="1242" width="340" height="614"/>
+	<SubTexture name="GFGojekDanceRight0008" x="1360" y="1242" width="340" height="614"/>
+	<SubTexture name="GFGojekDanceRight0009" x="1360" y="1242" width="340" height="614"/>
+	<SubTexture name="GFGojekDanceRight0010" x="1700" y="1242" width="340" height="614"/>
+	<SubTexture name="GFGojekDanceRight0011" x="1700" y="1242" width="340" height="614"/>
+</TextureAtlas>

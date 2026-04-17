@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="-260" y="40" scale="0.5" camx="-25" camy="195" icon="acumalaka" color="#30B0D1" gameOverChar="balls-dead">
+	<anim name="idle" anim="Acumalaka Dance N Dance" x="115" y="-470" loop="true"/>
+	<anim name="singLEFT" anim="Acumalaka HUH?" x="155" y="-470"/>
+	<anim name="singRIGHT" anim="Acumalaka HAHAHA" x="155" y="-470"/>
+	<anim name="singUP" anim="Acumalaka MWAHAHAH" x="155" y="-110"/>
+	<anim name="singDOWN" anim="Acumalaka Uhh" x="155" y="-470"/>
+</character>
