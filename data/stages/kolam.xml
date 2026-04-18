@@ -12,16 +12,16 @@
     <sprite name="daun" x="1190" y="-125" scroll="0.875" sprite="daun"/>
     <sprite name="mancing" x="-1310" y="-320" scroll="0.95" sprite="mancing"/>
 
-    <sprite name="kolamground" x="-1845" y="-910" scroll="1" sprite="kolamground"/>
-    <sprite name="kursikiri" x="-1315" y="38" scroll="1" sprite="kursikiri"/>
-    <sprite name="kursikanan" x="1185" y="38" scroll="1" sprite="kursikanan"/>
+    <sprite name="kolamground" x="-1845" y="-910" sprite="kolamground"/>
+    <sprite name="kursikiri" x="-1315" y="38" sprite="kursikiri"/>
+    <sprite name="kursikanan" x="1185" y="38" sprite="kursikanan"/>
 
-    <sprite name="tiangkiri" x="-823" y="-765" scroll="1" sprite="tiangkiri"/>
-    <sprite name="tiangkanan" x="1988" y="-765" scroll="1" sprite="tiangkanan"/>
+    <sprite name="tiangkiri" x="-823" y="-765" sprite="tiangkiri"/>
+    <sprite name="tiangkanan" x="1988" y="-765" sprite="tiangkanan"/>
 
-    <girlfriend x="243" y="-90" scroll="1"/>
+    <girlfriend x="243" y="-90"/>
     <dad x="-100"/>
     <boyfriend x="870"/>
 
-    <sprite name="cahaya" x="-1845" y="-845" scroll="1" sprite="cahaya"/>
+    <sprite name="cahaya" x="-1845" y="-845" sprite="cahaya"/>
 </stage>
