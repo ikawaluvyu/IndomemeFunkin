@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="icon.png">
+	<SubTexture name="idle0000" x="150" y="0" width="150" height="150"/>
+
+    <SubTexture name="idle-lose0000" x="0" y="0" width="150" height="150"/>
+    <SubTexture name="idle-lose0001" x="0" y="0" width="150" height="150"/>
+    <SubTexture name="idle-lose0002" x="0" y="150" width="150" height="150"/>
+    <SubTexture name="idle-lose0003" x="0" y="150" width="150" height="150"/>
+    <SubTexture name="idle-lose0004" x="150" y="150" width="150" height="150"/>
+    <SubTexture name="idle-lose0005" x="150" y="150" width="150" height="150"/>
+
+    <SubTexture name="lose-idle0000" x="0" y="150" width="150" height="150"/>
+    <SubTexture name="lose-idle0001" x="0" y="150" width="150" height="150"/>
+    <SubTexture name="lose-idle0002" x="0" y="0" width="150" height="150"/>
+    <SubTexture name="lose-idle0003" x="0" y="0" width="150" height="150"/>
+    <SubTexture name="lose-idle0004" x="150" y="0" width="150" height="150"/>
+    <SubTexture name="lose-idle0005" x="150" y="0" width="150" height="150"/>
+
+    <SubTexture name="lose0000" x="150" y="150" width="150" height="150"/>
+</TextureAtlas>

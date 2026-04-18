@@ -7,12 +7,13 @@ var camBound:FlxCamera;
 function postCreate() {
     camGame.addShader(warpShader);
     tiltFollowMult *= 2;
-    defaultCamAngle = 5;
     setupBound();
 }
 
 function setupBound() {
+    FlxG.cameras.remove(camHUD, false);
     FlxG.cameras.add(camBound = new FlxCamera(), false);
+    FlxG.cameras.add(camHUD, false);
     camBound.bgColor = 0;
 
     var barWidth:Int = 320;

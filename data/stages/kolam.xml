@@ -1,0 +1,27 @@
+<!DOCTYPE codename-engine-stage>
+<stage folder="stages/kolam/" name="kolam" zoom="0.56">
+    <sprite name="langit" x="-1538" y="-810" scroll="0.25" sprite="langit"/>
+
+    <sprite name="awan1" x="-400" y="-464" scroll="0.35" sprite="awan1"/>
+    <sprite name="awan2" x="356" y="-610" scroll="0.35" sprite="awan2"/>
+    <sprite name="awan3" x="745" y="-410" scroll="0.35" sprite="awan3"/>
+    <sprite name="awan4" x="940" y="-590" scroll="0.35" sprite="awan4"/>
+
+    <sprite name="rumah" x="-890" y="-694" scroll="0.85" sprite="rumah"/>
+    <sprite name="pohon" x="-790" y="-820" scroll="0.875" sprite="pohon"/>
+    <sprite name="daun" x="1190" y="-125" scroll="0.875" sprite="daun"/>
+    <sprite name="mancing" x="-1310" y="-320" scroll="0.95" sprite="mancing"/>
+
+    <sprite name="kolamground" x="-1845" y="-910" scroll="1" sprite="kolamground"/>
+    <sprite name="kursikiri" x="-1315" y="38" scroll="1" sprite="kursikiri"/>
+    <sprite name="kursikanan" x="1185" y="38" scroll="1" sprite="kursikanan"/>
+
+    <sprite name="tiangkiri" x="-823" y="-765" scroll="1" sprite="tiangkiri"/>
+    <sprite name="tiangkanan" x="1988" y="-765" scroll="1" sprite="tiangkanan"/>
+
+    <girlfriend x="243" y="-90" scroll="1"/>
+    <dad x="-100"/>
+    <boyfriend x="870"/>
+
+    <sprite name="cahaya" x="-1845" y="-845" scroll="1" sprite="cahaya"/>
+</stage>

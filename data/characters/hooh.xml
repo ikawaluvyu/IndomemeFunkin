@@ -1,5 +1,5 @@
 <!DOCTYPE codename-engine-character>
-<character sprite="ho_oh" camx="-225" camy="30" color="#000000">
+<character camx="-225" camy="30" color="#5C91CA">
 	<anim name="idle" anim="hoohidle"/>
 	<anim name="singDOWN" anim="hoohdown" x="47" y="-34"/>
 	<anim name="singRIGHT" anim="hoohright" x="-71" y="-8"/>

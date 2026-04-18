@@ -1,5 +1,5 @@
 <!DOCTYPE codename-engine-character>
-<character x="100" y="275" sprite="GFGojek" icon="gf" color="#000000">
+<character x="100" y="275" sprite="GFojol" icon="gf" color="#A5004D">
 	<anim name="danceRight" anim="GFGojekDanceRight" x="-174" y="56" loop="true"/>
 	<anim name="danceLeft" anim="GFGojekDanceLeft" x="-169" y="63"/>
 </character>

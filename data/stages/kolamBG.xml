@@ -1,8 +1,0 @@
-<!DOCTYPE codename-engine-stage>
-<stage folder="stages/kolamBG/" name="kolamBG" zoom="0.56">
-	<combo x= "200"/>
-	<girlfriend x="243" y ="-90" scroll="1"/>
-	<dad x="-100" />
-	<boyfriend angle="0.81" x="870"/>
-	
-</stage>

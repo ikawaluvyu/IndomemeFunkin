@@ -1,0 +1,7 @@
+<!DOCTYPE codename-engine-icon>
+<icon scale="1" antialiasing="true">
+    <anim name="neutral" anim="idle0" looped="false" fps="0"/>
+    <anim name="losing" anim="lose0" looped="false" fps="0"/>
+    <transition from="neutral" to="losing" anim="idle-lose0" fps="24"/>
+    <transition from="losing" to="neutral" anim="lose-idle0" fps="24"/>
+</icon>
