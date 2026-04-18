@@ -1,7 +1,0 @@
-<!DOCTYPE codename-engine-stage>
-<stage folder="stages/hoohBG/" name="hoohBG" zoom="1">
-	<sprite x="-950" sprite="hooh" y="-375" scale="0.65" name="hooh"/>
-	<girlfriend scale="1.6" alpha="0" x="1325" y="165"/>
-	<dad x="0" y="0"/>
-	<boyfriend x="198" y="-142" scale="1.6" alpha="0" angle="0.81"/>
-</stage>

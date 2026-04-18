@@ -1,0 +1,7 @@
+<!DOCTYPE codename-engine-stage>
+<stage folder="stages/mataram/" name="mataram" zoom="1" startCamPosX="300" startCamPosY="180">
+	<sprite x="-950" sprite="hooh" y="-375" scale="0.65" name="hooh"/>
+	<dad x="0" y="0"/>
+	<boyfriend x="198" y="-142" camyoffset="-30" alpha="0"/>
+	<ratings x="410" y="470"/>
+</stage>
